@@ -393,10 +393,7 @@ new Vue({
                 writeKey: '011F77F1C01BE9B23CAA51C0F55DB1309B7ED9CF9BAC37E18A44D2A32E33B21809D14B106FF873BD057355F5A627926CF2686B57BE6B81BB87AFE3AB7B7BBED80DDC7E3138FD3442161C361092FE21BB502BA978A1466C521570A4B2E76829CD'
             });
 
-            // Record an event
-            client.recordEvent('model', {
-                title: document.title
-            });
+            client.recordEvent('model', { title: document.title });
         },
         encode(data) {
             return Object.keys(data).map(key => `${encodeURIComponent(key)}=${encodeURIComponent(data[key])}`).join('&');
