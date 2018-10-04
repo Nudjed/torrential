@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="271px" height="51px" viewBox="0 0 271 51" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 12</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="259.133127" height="50.1547988"></rect>
+    </defs>
+    <g id="Landing-Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PLan-Journey-Copy" transform="translate(-46.000000, -2267.000000)">
+            <g id="Group-31" transform="translate(-3.000000, 1542.000000)">
+                <g id="Group-27" transform="translate(32.000000, 608.000000)">
+                    <g id="Group-12" transform="translate(18.000000, 117.000000)">
+                        <g id="Group-2" transform="translate(5.851393, 0.004568)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <g id="Rectangle-16" transform="translate(129.566563, 25.077399) scale(1, -1) translate(-129.566563, -25.077399) "></g>
+                            <path d="M-2.92569659,49.6601079 L-2.92569659,80.3097185 L92.5795712,80.3097185 L92.5795712,49.6601079 L89.6068559,49.6601079 C87.0677139,49.6601079 85.0093327,47.6017266 85.0093327,45.0625847 L85.0093327,4.17956656 C85.0093327,2.09715596 83.4190325,0.417956656 81.4689947,0.417956656 L7.05305507,0.417956656 C5.10301729,0.417956656 3.51271706,2.09715596 3.51271706,4.17956656 L3.51271706,45.0625847 C3.51271706,47.6017266 1.4543358,49.6601079 -1.08480616,49.6601079 L-2.92569659,49.6601079 Z" id="Combined-Shape-Copy" stroke="#BAC1E1" stroke-width="0.835913313" fill="#F0F3FE" mask="url(#mask-2)"></path>
+                            <path d="M166.764706,49.6601079 L166.764706,80.3097185 L262.269974,80.3097185 L262.269974,49.6601079 L259.297258,49.6601079 C256.758116,49.6601079 254.699735,47.6017266 254.699735,45.0625847 L254.699735,4.17956656 C254.699735,2.09715596 253.109435,0.417956656 251.159397,0.417956656 L176.743458,0.417956656 C174.79342,0.417956656 173.20312,2.09715596 173.20312,4.17956656 L173.20312,45.0625847 C173.20312,47.6017266 171.144738,49.6601079 168.605596,49.6601079 L166.764706,49.6601079 Z" id="Combined-Shape-Copy-2" stroke="#BAC1E1" stroke-width="0.835913313" fill="#F0F3FE" mask="url(#mask-2)"></path>
+                            <path d="M82.3374613,49.6601079 L82.3374613,80.3097185 L177.842729,80.3097185 L177.842729,49.6601079 L174.870014,49.6601079 C172.330872,49.6601079 170.272491,47.6017266 170.272491,45.0625847 L170.272491,4.17956656 C170.272491,2.09715596 168.68219,0.417956656 166.732153,0.417956656 L92.316213,0.417956656 C90.3661752,0.417956656 88.775875,2.09715596 88.775875,4.17956656 L88.775875,45.0625847 C88.775875,47.6017266 86.7174937,49.6601079 84.1783517,49.6601079 L82.3374613,49.6601079 Z" id="Combined-Shape" stroke="#BAC1E1" stroke-width="0.835913313" fill="#FFFFFF" mask="url(#mask-2)"></path>
+                        </g>
+                        <path d="M0.401882886,49.7459016 L87.3529412,49.7459016" id="Line-5" stroke="#BAC1E1" stroke-width="0.835913313" stroke-linecap="square"></path>
+                        <path d="M183.482972,49.7459016 L269.586101,49.7459016" id="Line-5-Copy" stroke="#BAC1E1" stroke-width="0.835913313" stroke-linecap="square"></path>
+                        <text id="Tomorrow" font-family="Saira-Medium, Saira" font-size="13.374613" font-weight="400" fill="#000438">
+                            <tspan x="103.910712" y="24.1021672">Tomorrow</tspan>
+                        </text>
+                        <text id="(Wed-8th)" font-family="Saira-Regular, Saira" font-size="10.0309598" font-weight="normal" fill="#606783">
+                            <tspan x="113.027183" y="41.0928793">(Wed 8th)</tspan>
+                        </text>
+                        <text id="Day-After" font-family="Saira-Medium, Saira" font-size="13.374613" font-weight="400" fill="#BAC1E1">
+                            <tspan x="189.461424" y="24.1021672">Day After</tspan>
+                        </text>
+                        <text id="(Thurs-9th)" font-family="Saira-Regular, Saira" font-size="10.0309598" font-weight="normal" fill="#BAC1E1">
+                            <tspan x="194.206068" y="41.0928793">(Thurs 9th)</tspan>
+                        </text>
+                        <text id="Today" font-family="Saira-Medium, Saira" font-size="13.374613" font-weight="400" fill="#BAC1E1">
+                            <tspan x="30.7014241" y="24.1021672">Today</tspan>
+                        </text>
+                        <text id="(Tues-7th)" font-family="Saira-Regular, Saira" font-size="10.0309598" font-weight="normal" fill="#BAC1E1">
+                            <tspan x="27.0183901" y="41.0928793">(Tues 7th)</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

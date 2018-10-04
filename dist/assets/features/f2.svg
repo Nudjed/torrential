@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="275px" height="130px" viewBox="0 0 275 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 19</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="265" height="120" rx="2"></rect>
+        <filter x="-2.8%" y="-6.2%" width="105.7%" height="112.5%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.728205023   0 0 0 0 0.758759809   0 0 0 0 0.880978954  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Landing-Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PLan-Journey-Copy" transform="translate(-375.000000, -1900.000000)">
+            <g id="Group-31" transform="translate(-3.000000, 1542.000000)">
+                <g id="Group-23" transform="translate(365.000000, 278.000000)">
+                    <g id="Group-19" transform="translate(18.000000, 85.000000)">
+                        <g id="Rectangle-2">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <rect stroke="#BAC1E1" stroke-width="1" stroke-linejoin="square" fill="#F0F3FE" fill-rule="evenodd" x="0.5" y="0.5" width="264" height="119" rx="2"></rect>
+                        </g>
+                        <text id="Your-journey-will-be" font-family="Saira-Regular, Saira" font-size="14" font-weight="normal" fill="#0928A5">
+                            <tspan x="15.184" y="16">Your journey will be between </tspan>
+                            <tspan x="206.41" y="16" text-decoration="underline">19 and </tspan>
+                            <tspan x="24.802" y="38" text-decoration="underline">21ºC</tspan>
+                            <tspan x="52.578" y="38">, with a </tspan>
+                            <tspan x="101.956" y="38" text-decoration="underline">high chance of heavy </tspan>
+                            <tspan x="14.561" y="60" text-decoration="underline">rain</tspan>
+                            <tspan x="39.621" y="60">, </tspan>
+                            <tspan x="46.033" y="60" text-decoration="underline">UV will be low</tspan>
+                            <tspan x="136.417" y="60"> with </tspan>
+                            <tspan x="171.403" y="60" text-decoration="underline">heavy cloud </tspan>
+                            <tspan x="55.462" y="82" text-decoration="underline">cover</tspan>
+                            <tspan x="90.378" y="82"> and </tspan>
+                            <tspan x="121.598" y="82" text-decoration="underline">strong winds</tspan>
+                            <tspan x="205.416" y="82">. </tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
