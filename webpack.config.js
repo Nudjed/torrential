@@ -1,39 +1,39 @@
-const ExtractTextPlugin = require('extract-text-webpack-plugin')
-const VueLoaderPlugin = require('vue-loader/lib/plugin')
 const path = require('path')
+const ExtractTextPlugin = require('extract-text-webpack-plugin')
+const HtmlWebpackPlugin = require('html-webpack-plugin')
+const CopyWebpackPlugin = require('copy-webpack-plugin')
 
 module.exports = {
-  entry: './index.js',
-  output: {
-    path: path.resolve(__dirname, 'dist'),
-    filename: 'index.js',
-  },
+  entry: './src/styles.css',
+  mode: process.env.NODE_ENV,
   module: {
-    rules: [
-      {
-        test: /\.js$/,
-        use: ['babel-loader'],
-        include: __dirname,
-        exclude: path.join(__dirname, 'node_modules')
-      },
-      {
-        test: /\.vue$/,
-        loader: 'vue-loader'
-      },
-      {
-        test: /\.css$/,
-        use: ExtractTextPlugin.extract({
-          fallback: 'style-loader',
-          use: [
-            { loader: 'css-loader', options: { importLoaders: 1 } },
-            'postcss-loader'
-          ]
-        })
-      },
-    ]
+    rules: [{
+      test: /\.css$/,
+      use: ExtractTextPlugin.extract({
+        fallback: 'style-loader',
+        use: [{
+            loader: 'css-loader',
+            options: {
+              importLoaders: 1
+            }
+          },
+          'postcss-loader',
+        ],
+      }),
+    }, ],
   },
   plugins: [
-    new ExtractTextPlugin('styles.css'),
-    new VueLoaderPlugin()
-  ]
+    new ExtractTextPlugin('styles.css', {
+      disable: process.env.NODE_ENV === 'development',
+    }),
+    new HtmlWebpackPlugin({
+      filename: 'index.html',
+      template: 'src/index.html',
+    }),
+    new CopyWebpackPlugin([{
+      from: 'src/assets',
+      to: 'assets',
+      toType: 'dir'
+    }]),
+  ],
 }

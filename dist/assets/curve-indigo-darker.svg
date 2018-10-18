@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="1024px" height="100px" viewBox="0 0 1014 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>curve-indigo-darker</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Landing-Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path d="M0,100 L1024,100 L1024,0 C902.401042,46.307183 731.734375,69.4607745 512,69.4607745 C292.265625,69.4607745 121.598958,46.307183 0,0 L0,100 Z" id="curve-indigo-darker" fill="#0928A5"></path>
-    </g>
-</svg>
